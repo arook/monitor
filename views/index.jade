@@ -1,2 +1,6 @@
 h1= title
 p Welcome to #{title}
+ul#asins
+  - each asin in asins
+    li
+      a(href='/view/' + asin._id)= asin.asin + ' ' + asin.site

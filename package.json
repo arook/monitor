@@ -4,6 +4,8 @@
   , "private": true
   , "dependencies": {
     "jade": ">= 0.0.1",
-    "express":""
+    "express":"",
+    "cloudfoundry":"=0.1.0",
+    "mongoose":""
   }
 }

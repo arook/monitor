@@ -1,0 +1,13 @@
+{
+  "mongodb-arook": {
+    "hostname": "localhost",
+    "port": 27017,
+    "username": "admin",
+    "password": "passwd",
+    "db": "mongodb"
+  },
+  "redis-arook": {
+    "hostname": "localhost",
+    "port": 6379
+  }
+}
